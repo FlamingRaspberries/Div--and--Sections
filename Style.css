@@ -1,5 +1,5 @@
 
-.projects-sections {
+.projects-section {
     background-color: #dbeafe;
     padding:30px;
     margin: 20px 0;
@@ -7,13 +7,13 @@
     border-radius: 10px;
 }
 
-.projects-container {
+.project-container {
     display: flex;
     gap: 20px;
     flex-wrap: wrap;
 }
 
-.projects-box {
+.project-box {
     background-color: #bbf7d0;
     padding: 20px;
     border: 2px solid #16a34a;
@@ -21,11 +21,11 @@
     flex: 1 1 180px;
 } 
 
-.projects-box h3 {
+.project-box h3 {
     color: #166534;
     margin-top: 0;
 }
 
-.projects-box p {
+.project-box p {
     color: #14532d;
 }
